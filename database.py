@@ -32,7 +32,3 @@ def init_db():
     conn.commit()
     conn.close()
     print("Database initialized.")
-
-
-git config --global user.name "AyushJCode"
-git config --global user.email "ayushvjadhav12@gmail.com"

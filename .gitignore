@@ -3,3 +3,5 @@ __pycache__/
 *.pyo
 hackathon.db
 .env
+
+# https://github.com/AyushJCode/hackhathon-project
